@@ -1,7 +1,7 @@
 {
   "name": "takeport",
   "description": "```$ takeport 3000``` occupies the 3000 port, use it for testing!",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "author": {
     "name": "Franco Arolfo",
     "email": "francoarolfo@hotmail.com"
