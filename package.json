@@ -1,0 +1,25 @@
+{
+  "name": "takeport",
+  "description": "```$ takeport 3000``` occupies the 3000 port, use it for testing!",
+  "version": "0.0.1",
+  "author": {
+    "name": "Franco Arolfo",
+    "email": "francoarolfo@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/farolfo/takeport/issues"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/farolfo/takeport",
+  "license": "MIT",
+  "bin": {
+    "takeport": "takeport.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/farolfo/takeport.git"
+  }
+}
