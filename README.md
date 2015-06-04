@@ -10,7 +10,7 @@ Suppose you want to test how an application behaves with a port already occupied
 $ npm install -g takeport
 ```
 
-### run
+### Usage
 
 To take the port 8080 run
 
