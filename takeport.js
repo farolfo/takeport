@@ -1,3 +1,11 @@
+#!/usr/bin/env node
+//     takeport 1.0.0
+
+//     (c) 2015 Franco Arolfo
+//     RAML Server may be freely distributed under the MIT license.
+//     For all details and documentation:
+//     https://github.com/farolfo/takeport
+
 var express = require('express');
 var app = express();
 
